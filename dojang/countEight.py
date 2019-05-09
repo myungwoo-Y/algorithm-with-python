@@ -1,0 +1,1 @@
+print "828".count('8')   # count function is count any type of special data
